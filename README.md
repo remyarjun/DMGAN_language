@@ -6,7 +6,7 @@ Generalized architectures of the TTI generation models and the images generated 
 
 ## Code Setup
 
-Code is implemented in a local workstation NVIDIA DGX Station A100 Version 5.1.0 and our local machine NVIDIA Quadro RTX 8000.
+Code is implemented in a local workstation NVIDIA DGX Station A100 Version 5.1.0.
 
 ## Dependencies
 * `python 3.6.13`
